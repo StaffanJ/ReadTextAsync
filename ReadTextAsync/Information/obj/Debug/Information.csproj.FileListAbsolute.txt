@@ -1,0 +1,5 @@
+C:\Users\Staffan\Source\Repos\ReadTextAsync\Information\bin\Debug\Information.dll
+C:\Users\Staffan\Source\Repos\ReadTextAsync\Information\bin\Debug\Information.pdb
+C:\Users\Staffan\Source\Repos\ReadTextAsync\Information\obj\Debug\Information.csproj.CoreCompileInputs.cache
+C:\Users\Staffan\Source\Repos\ReadTextAsync\Information\obj\Debug\Information.dll
+C:\Users\Staffan\Source\Repos\ReadTextAsync\Information\obj\Debug\Information.pdb
