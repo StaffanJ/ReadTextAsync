@@ -77,7 +77,7 @@ namespace ReadTextAsync
         private async Task<string> GetTextAsync()
         {
             //Path to the text file
-            string filePath = @"C:\Users\Staffan\Source\Repos\ReadTextAsync\text.txt";
+            string filePath = @"Path/To/Your/Text/File";
 
             //Using statement for the filestream, takes the path to the file, what mode to use, what access, and how to handle the sharing.
             using (FileStream sourceStream = new FileStream(filePath,
@@ -131,7 +131,7 @@ namespace ReadTextAsync
             //Clear the textbox.
             notAsyncTextBox.Clear();
             //Path to the text file.
-            string fileInfo = @"C:\Users\Staffan\Source\Repos\ReadTextAsync\text.txt";
+            string fileInfo = @"Path/To/Your/Text/File";
 
             //Using statement for the filestream, takes the path to the file, what mode to use, what access, and how to handle the sharing.
             using (FileStream fs = new FileStream(fileInfo, FileMode.Open, FileAccess.Read, FileShare.Read, bufferSize: 4096))
